@@ -19,7 +19,7 @@ int mayoria_edad(int edad){
     }
 }
 void registro_promedio (int notas[3]){
-    promedio= (notas[3])/3;
+    return (notas[3])/3;
 }
     
 

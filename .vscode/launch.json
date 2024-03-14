@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/proyectos c++/lenguaje_programacion_2023_2/lenguaje_programacion_2023_2/lenguaje_programacion_2023_2",
+      "program": "c:/proyectos c++/lenguaje_programacion_2023_2/lenguaje_programacion_2023_2/lenguaje_programacion_2023_2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
