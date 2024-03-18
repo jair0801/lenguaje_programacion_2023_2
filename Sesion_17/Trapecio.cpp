@@ -39,4 +39,7 @@ public:
     {
         altura = _altura;
     };
+    float calcular_trapecio(float _bmayor,float _bmenor,float _altura){
+        return ((_bmayor + _bmenor)/ 2)* _altura;
+    }
 };

@@ -21,7 +21,8 @@ public:
         radio = r;
     }
 
-    float calcular_area(float r){
+    float calcular_circulo(float r)
+    {
         return 3.1416 * (r * r);
     }
 };

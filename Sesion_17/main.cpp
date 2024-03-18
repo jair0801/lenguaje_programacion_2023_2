@@ -1,10 +1,12 @@
 #include <iostream>
 #include "Triangulo.cpp"
+#include "Circulo.cpp"
+#include "Cuadrado.cpp"
+#include "Trapecio.cpp"
+#include "Rectangulo.cpp"
 using namespace std;
 
 int main(){
-    for (int i=0;i<3;i++){
-        cout <<"Ingrese el lado"<<i+1<<endl;
-        cin>>i; 
+    
    
 }

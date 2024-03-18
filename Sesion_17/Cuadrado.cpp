@@ -20,7 +20,7 @@ public:
     {
         lado = l;
     };
-    float calcular_area(float l){
+    float calcular_cuadrado(float l){
         return l * l;
     }
 };

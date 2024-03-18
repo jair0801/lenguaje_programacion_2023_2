@@ -29,7 +29,7 @@ public:
     {
         altura = _altura;
     };
-    float calcular_area(int _altura,int _base){
+    float calcular_triangulo(int _altura,int _base){
         return (_base * _altura) / 2;
     }
 };

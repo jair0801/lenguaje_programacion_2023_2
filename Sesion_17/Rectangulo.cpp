@@ -39,7 +39,7 @@ public:
         return longitud * ancho;
     }
 
-    float calcular_area(float l, float a)
+    float calcular_rectangulo(float l, float a)
     {
         return l * a;
     }
